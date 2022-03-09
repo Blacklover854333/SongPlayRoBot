@@ -21,10 +21,10 @@ Easy To Deploy 🤗
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IVETRI/SongPlayRoBot.git)
 
 ## Group
-You can also join our support group [HERE!](https://t.me/quick_mcq) 👨🏻‍💻
+You can also join our support group [@quick_mcq!](https://t.me/quick_mcq) 👨🏻‍💻
 
 # Report error
-Report your problem along with your name to This Person 📲 [iMvEtRi🧑‍💻](https://t.me/abhishekraza) 😪
+Report your problem along with your name to This Person 📲 [@Abhishekraza](https://t.me/abhishekraza) 😪
 
 
 
