@@ -4,14 +4,14 @@
 
 Repo : [SongProBot 🎻](https://GitHub.Com/Blacklover854333/SongPlayRoBot)
 
-Bot : [Song Pro Bot 🧚‍](https://t.me/SongProBot)
+Bot : [Song Pro Bot 🧚‍](https://t.me/Musicplayer_technology_bot)
 
 ## SongPlayRoBot
 3X Fast Telethon Based Bot ⚜
 
 Open Source Bot 👨🏻‍💻
 
-Demo : [SongProBot  🎻](https://t.me/SongProBot) 💃🏻
+Demo : [SongProBot  🎻](https://t.me/Musicplayer_technology_bot) 💃
 
 Easy To Deploy 🤗
 
